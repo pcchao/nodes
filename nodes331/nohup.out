@@ -1,0 +1,68 @@
+  File "pac_craw.py", line 2
+    rt tweepy #https://github.com/tweepy/tweepy
+            ^
+SyntaxError: invalid syntax
+  File "pac_craw.py", line 2
+    rt tweepy #https://github.com/tweepy/tweepy
+            ^
+SyntaxError: invalid syntax
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  44196397
+The user id is:  44196397
+The user id is:  2223592103
+The user id is:  1654188770
+The user id is:  287568380
+The user id is:  23504870
+The user id is:  18200793
+The user id is:  14647570
+The user id is:  11928542
+The user id is:  4398626122
+The user id is:  1582853809
+The user id is:  2329316496
+The user id is:  11348282
+The user id is:  275686563
+The user id is:  38430500
+The user id is:  209811713
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  176774540
+The user id is:  176774540
+The user id is:  2251623492
+The user id is:  57047586
+The user id is:  2890961
+The user id is:  1282121312
+The user id is:  14780915
+The user id is:  316389142
+The user id is:  4620451
+The user id is:  817386
+The user id is:  259771124
+The user id is:  316327930
+The user id is:  23962323
+The user id is:  17248121
+The user id is:  1182382878
+The user id is:  19658826
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  717313
+The user id is:  717313
+The user id is:  11178902
+The user id is:  19079396
+The user id is:  14075928
+The user id is:  1344951
+The user id is:  16689804
+The user id is:  18812572
+The user id is:  5988062
+The user id is:  14677919
+The user id is:  13298072
+The user id is:  34743251
+The user id is:  4100391622
+The user id is:  28506736
+The user id is:  1960283150
+The user id is:  32128600
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  4423337056
+e: Not authorized.
+Traceback (most recent call last):
+  File "pac_craw.py", line 74, in <module>
+    get_profile_info(friend[nodeIndex-1])
+  File "pac_craw.py", line 36, in get_profile_info
+    if e.message[0]['code']==88:
+TypeError: string indices must be integers
