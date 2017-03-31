@@ -1141,4 +1141,418 @@ e: [{u'message': u'Rate limit exceeded', u'code': 88}]
 rate time error:  5695032
 The user id is:  5695032
 The user id is:  39585367
-The user id is:  154
+The user id is:  15460048
+The user id is:  17815224
+The user id is:  13783772
+The user id is:  742307083434008576
+The user id is:  15919988
+The user id is:  27295244
+The user id is:  54641489
+The user id is:  95972239
+The user id is:  312840253
+The user id is:  3883416257
+The user id is:  20978354
+The user id is:  14499829
+The user id is:  19402584
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  297947269
+The user id is:  297947269
+The user id is:  1585469030
+The user id is:  2999294063
+The user id is:  29342640
+e: Not authorized.
+Not authorized 
+The user id is:  1114865460
+The user id is:  234446125
+The user id is:  787736353
+The user id is:  556151596
+The user id is:  44418062
+The user id is:  196233238
+The user id is:  253536357
+The user id is:  86977818
+The user id is:  56564230
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  720228997
+The user id is:  720228997
+The user id is:  554735353
+The user id is:  20155760
+The user id is:  929394068
+The user id is:  4843935136
+The user id is:  318850388
+The user id is:  21436960
+The user id is:  27596259
+The user id is:  206255645
+The user id is:  264399952
+The user id is:  107391777
+The user id is:  31663209
+The user id is:  1875489644
+The user id is:  536727256
+The user id is:  303804147
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  27916713
+The user id is:  27916713
+The user id is:  213689248
+The user id is:  15169176
+The user id is:  75055280
+The user id is:  111423859
+The user id is:  3760488922
+The user id is:  1314604885
+The user id is:  45176933
+The user id is:  15000857
+The user id is:  40054423
+The user id is:  930881406
+The user id is:  299343530
+The user id is:  16434221
+The user id is:  21408610
+The user id is:  16630098
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  118975084
+The user id is:  118975084
+The user id is:  2268076370
+The user id is:  22883622
+The user id is:  273753448
+The user id is:  380414259
+The user id is:  3583264572
+The user id is:  1365460075
+The user id is:  17525171
+The user id is:  158391699
+The user id is:  2343732672
+The user id is:  366665842
+The user id is:  2525050148
+The user id is:  23050826
+The user id is:  818910970567344128
+The user id is:  325830217
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  364290706
+The user id is:  364290706
+The user id is:  29442313
+The user id is:  216776631
+The user id is:  1330457336
+The user id is:  1093090866
+The user id is:  818876014390603776
+The user id is:  1339835893
+The user id is:  757303975
+The user id is:  15463610
+The user id is:  192942213
+The user id is:  5120691
+The user id is:  34317032
+The user id is:  1530850933
+The user id is:  2149663698
+The user id is:  1288552388
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  17293921
+The user id is:  17293921
+The user id is:  1451773004
+The user id is:  235573486
+The user id is:  54645160
+The user id is:  203479775
+The user id is:  65647594
+The user id is:  91326092
+The user id is:  24919888
+The user id is:  550511973
+The user id is:  3167496323
+The user id is:  253588542
+The user id is:  14505838
+The user id is:  3372348975
+The user id is:  201857425
+The user id is:  39348006
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  1340984659
+The user id is:  1340984659
+The user id is:  15521075
+The user id is:  167711000
+The user id is:  46220856
+The user id is:  409013239
+The user id is:  36711678
+The user id is:  27247475
+The user id is:  128318960
+The user id is:  12819112
+The user id is:  487833518
+The user id is:  50393960
+The user id is:  1636590253
+The user id is:  15492359
+The user id is:  44196397
+The user id is:  13298072
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  2325690444
+The user id is:  2325690444
+The user id is:  3034214643
+The user id is:  19766166
+The user id is:  29093157
+The user id is:  36346391
+The user id is:  15007149
+The user id is:  144972081
+The user id is:  500704345
+The user id is:  1536791610
+The user id is:  822215679726100480
+The user id is:  523339137
+The user id is:  2471315234
+The user id is:  13201312
+The user id is:  2734713482
+The user id is:  22642788
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  17071048
+The user id is:  17071048
+The user id is:  23544771
+The user id is:  52488565
+The user id is:  20068679
+The user id is:  14707239
+The user id is:  61592079
+The user id is:  592912724
+The user id is:  961458414
+e: Not authorized.
+Not authorized 
+The user id is:  12917402
+The user id is:  14275261
+The user id is:  174847568
+The user id is:  874916178
+The user id is:  78400475
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  262317278
+The user id is:  262317278
+The user id is:  15165502
+The user id is:  38245723
+The user id is:  137471526
+The user id is:  213917132
+The user id is:  520766752
+The user id is:  1041442471
+The user id is:  208442526
+The user id is:  2830279756
+The user id is:  200219772
+The user id is:  44136646
+The user id is:  44939979
+The user id is:  95660255
+The user id is:  16649758
+The user id is:  2329066872
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  14750983
+The user id is:  14750983
+The user id is:  365616878
+The user id is:  723926383
+The user id is:  2542080930
+The user id is:  83221847
+The user id is:  19164430
+The user id is:  227021376
+The user id is:  208008927
+The user id is:  558148770
+The user id is:  438501983
+The user id is:  29580450
+The user id is:  72842277
+The user id is:  844132603
+The user id is:  1364396671
+The user id is:  21218554
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  785808991
+The user id is:  785808991
+The user id is:  21634600
+The user id is:  209262555
+The user id is:  14807898
+The user id is:  15353398
+The user id is:  63796828
+The user id is:  28838219
+The user id is:  383466257
+The user id is:  379625477
+The user id is:  627406713
+The user id is:  236400612
+The user id is:  19802879
+The user id is:  18393501
+The user id is:  20020021
+The user id is:  603367602
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  204918880
+The user id is:  204918880
+The user id is:  586841695
+The user id is:  212376858
+The user id is:  21438902
+The user id is:  138151145
+The user id is:  45516390
+The user id is:  11885742
+The user id is:  117636908
+The user id is:  15473958
+The user id is:  43104516
+The user id is:  370638564
+The user id is:  214212539
+The user id is:  24683525
+The user id is:  18739693
+The user id is:  26257927
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  63157272
+The user id is:  63157272
+The user id is:  259401680
+The user id is:  14238165
+The user id is:  213302831
+The user id is:  19725644
+The user id is:  1435461
+The user id is:  21611239
+The user id is:  20060293
+The user id is:  174740894
+The user id is:  185345185
+The user id is:  17159804
+The user id is:  42869411
+The user id is:  26832834
+The user id is:  16623719
+The user id is:  15500649
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  15431856
+The user id is:  15431856
+The user id is:  143209906
+The user id is:  16465385
+The user id is:  48564118
+The user id is:  34868965
+The user id is:  822215673812119553
+The user id is:  30313925
+The user id is:  15234407
+The user id is:  5988062
+The user id is:  79570653
+The user id is:  21454987
+The user id is:  15519544
+The user id is:  17054817
+The user id is:  18048466
+The user id is:  46571758
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  26268870
+The user id is:  26268870
+The user id is:  16984777
+The user id is:  39530187
+The user id is:  43462357
+The user id is:  18377858
+The user id is:  42097354
+The user id is:  45879214
+The user id is:  12798822
+The user id is:  42883134
+The user id is:  22657619
+The user id is:  44438256
+The user id is:  18316818
+The user id is:  22026168
+The user id is:  23109836
+The user id is:  18107015
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  18912014
+The user id is:  18912014
+The user id is:  14343727
+The user id is:  39284958
+The user id is:  21581503
+The user id is:  14953378
+The user id is:  24043785
+The user id is:  27659232
+The user id is:  34010976
+The user id is:  21000110
+The user id is:  22081607
+The user id is:  19722699
+The user id is:  36759379
+e: Not authorized.
+Not authorized 
+The user id is:  21395601
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  3373791
+The user id is:  3373791
+The user id is:  20649538
+The user id is:  34651103
+The user id is:  29726578
+The user id is:  31873110
+The user id is:  31560075
+The user id is:  16102244
+The user id is:  27646691
+The user id is:  23597950
+The user id is:  34743251
+The user id is:  34775101
+The user id is:  23615081
+The user id is:  9689662
+The user id is:  33575770
+The user id is:  17787705
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  34239380
+The user id is:  34239380
+The user id is:  23598351
+The user id is:  15737554
+The user id is:  14256759
+The user id is:  16420903
+The user id is:  23638544
+The user id is:  18815507
+e: Not authorized.
+Not authorized 
+The user id is:  25466835
+The user id is:  23962323
+The user id is:  20169317
+The user id is:  15862891
+The user id is:  18243284
+The user id is:  29375037
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  19837528
+The user id is:  19837528
+The user id is:  20642645
+The user id is:  29328707
+The user id is:  26250872
+The user id is:  23790666
+The user id is:  18049298
+The user id is:  4503491
+The user id is:  22026877
+The user id is:  27316876
+The user id is:  21754354
+The user id is:  22167056
+The user id is:  27013292
+The user id is:  19307541
+The user id is:  26748889
+The user id is:  25529685
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  26858764
+The user id is:  26858764
+The user id is:  14067728
+The user id is:  9406622
+The user id is:  16299754
+The user id is:  26269367
+The user id is:  20068053
+The user id is:  18305736
+The user id is:  14591033
+The user id is:  25150861
+The user id is:  16527805
+The user id is:  26000428
+The user id is:  18499709
+The user id is:  23575322
+The user id is:  26074603
+The user id is:  22278303
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  7093352
+The user id is:  7093352
+The user id is:  21838233
+The user id is:  7914552
+The user id is:  18058609
+The user id is:  18768802
+The user id is:  17998609
+The user id is:  13077962
+The user id is:  939091
+The user id is:  661403
+The user id is:  11348282
+The user id is:  9534522
+The user id is:  8161232
+The user id is:  813286
+The user id is:  16644421
+The user id is:  15824522
+e: [{u'message': u'Rate limit exceeded', u'code': 88}]
+rate time error:  14269711
+The user id is:  14269711
+The user id is:  14630696
+The user id is:  17842366
+The user id is:  19144771
+The user id is:  20524002
+The user id is:  20221570
+The user id is:  20345991
+The user id is:  7879972
+The user id is:  23730116
+The user id is:  24036083
+The user id is:  1057151
+The user id is:  16203371
+The user id is:  23368403
+The user id is:  18127957
+e: Not authorized.
+Not authorized 
+Traceback (most recent call last):
+  File "pac_craw.py", line 80, in <module>
+    get_profile_info(friend[nodeIndex-1])
+  File "pac_craw.py", line 40, in get_profile_info
+    friendList=api.friends_ids(friend[nodeIndex-1])
+  File "/usr/lib/python2.7/site-packages/tweepy/binder.py", line 245, in _call
+    return method.execute()
+  File "/usr/lib/python2.7/site-packages/tweepy/binder.py", line 227, in execute
+    raise RateLimitError(error_msg, resp)
+tweepy.error.RateLimitError: [{u'message': u'Rate limit exceeded', u'code': 88}]
