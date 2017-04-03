@@ -1,0 +1,3 @@
+nodeIndex:2500 
+ friend(nodeIndex-1): 16649817 
+BFS length: 2511 
